@@ -9,3 +9,6 @@ Here, we learn and implement design pattern which are neccessary to develop scal
 
 ## Decorator design pattern
 ![Screenshot (164)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/316182af-4343-47ec-97c0-7459fa6c4e23)
+
+## Proxy design pattern
+![Screenshot (165)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/bb733d86-75c8-4329-b9bf-b83b55419851)
