@@ -16,16 +16,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 @RequestMapping("/ecommerce")
 public class EcommerceController {
 
-/* 
-    Problem Statement 
-    You are developing an e-commerce platform where customers can customize their electronic devices.
-    Implement the decorator pattern to handle the customization of devices with additional features
-    such as upgraded storage, extended warranty, and premium accessories.
-    Discuss the class structure and relationships, and provide an example illustrating how
-    the decorator pattern allows users to dynamically configure and customize their electronic
-    devices during the ordering process.
- */
-
     @GetMapping("/aux")
     public Double calculateCost() {
         
