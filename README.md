@@ -12,3 +12,9 @@ Here, we learn and implement design pattern which are neccessary to develop scal
 
 ## Proxy design pattern
 ![Screenshot (165)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/bb733d86-75c8-4329-b9bf-b83b55419851)
+
+## Composite design pattern
+![Screenshot (166)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/008f7c1f-53c1-46e2-b738-310668078949)
+
+## Adapter design pattern
+![Screenshot (167)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/6cbc90c5-aec1-4ef3-afaf-c0f72b493b18)
