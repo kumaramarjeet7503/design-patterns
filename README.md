@@ -18,3 +18,7 @@ Here, we learn and implement design pattern which are neccessary to develop scal
 
 ## Adapter design pattern
 ![Screenshot (167)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/6cbc90c5-aec1-4ef3-afaf-c0f72b493b18)
+
+
+## Prototype design pattern
+![Screenshot (169)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/8dca1413-f868-4950-b52a-8d2387ca57cf)
