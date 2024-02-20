@@ -26,3 +26,6 @@ Here, we learn and implement design pattern which are neccessary to develop scal
 
 ## Facade design pattern
 ![Screenshot (171)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/5ede9c91-6ffd-47f0-9bf8-17f09c004d86)
+
+## Builder design pattern
+![Screenshot (172)](https://github.com/kumaramarjeet7503/design-patterns/assets/64517073/6bfe22d3-593d-4a6b-8454-8911b6a0df11)
